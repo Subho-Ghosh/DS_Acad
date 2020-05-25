@@ -1,2 +1,2 @@
 # DS_Acad
-All Academic Projects as part of my Master's course
+This repository contains all publicly shared projects which I did during my DS Career
